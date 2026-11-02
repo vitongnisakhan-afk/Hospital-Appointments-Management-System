@@ -9,7 +9,7 @@ import {
   HeartPulse,
   Stethoscope,
 } from "lucide-react";
-kklllll
+
 import "./Login.css";
 
 interface LoginResponse {
